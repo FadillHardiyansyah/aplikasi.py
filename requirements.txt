@@ -1,0 +1,6 @@
+pandas==2.2.2
+PrettyTable ==3.10.0
+math==3.12.3
+streamlit==1.36.0
+pip==24.1.1
+numpy==2.0.0
